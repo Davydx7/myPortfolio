@@ -28,7 +28,7 @@ My personal portfolio <a href="#" target="_blank">DavyCodes</a> which features s
 
 This project was built using these technologies.
 
-- React.js
+- React.Ts
 - CSS3
 - VsCode
 - Netlify
